@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-###
-수정된건가..?
