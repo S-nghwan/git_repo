@@ -1,0 +1,11 @@
+<template>
+    <header>
+        Title
+    </header>
+    <content>
+        Content
+    </content>
+    <footer>
+        Footer
+    </footer>
+</template>
